@@ -2,7 +2,7 @@
 __pycache__/
 *.pyc
 
-# Virtual env (future)
+# Virtual env 
 venv/
 .env
 
