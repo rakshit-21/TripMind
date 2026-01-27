@@ -107,7 +107,7 @@ tripmind-ai/
 
 ---
 
-🎯 Why This Project Matters
+##🎯 Why This Project Matters
 
 This project demonstrates:
 Applied Generative AI system design
@@ -118,7 +118,7 @@ Focus on reliability and scalability
 
 ---
 
-🚧 Future Enhancements
+##🚧 Future Enhancements
 🗺️ Interactive map-based itinerary view
 📄 PDF export of itineraries
 💰 Budget breakdown per day
