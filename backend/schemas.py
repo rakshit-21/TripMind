@@ -18,4 +18,3 @@ class Itinerary(BaseModel):
     destination: str
     total_days: int
     days: List[DayPlan]
-

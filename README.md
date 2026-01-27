@@ -124,4 +124,3 @@ Focus on reliability and scalability
 💰 Budget breakdown per day
 🌦️ Weather-aware planning
 🔍 Semantic search over itineraries
-
