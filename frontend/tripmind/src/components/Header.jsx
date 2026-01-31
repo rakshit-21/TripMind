@@ -21,7 +21,7 @@ export default function Header() {
           </motion.div>
           <div>
             <h1 className="text-xl font-bold text-white flex items-center gap-2">
-              TravelGenie AI
+              TripMind AI
               <motion.div
                 animate={{ rotate: 360 }}
                 transition={{ duration: 3, repeat: Infinity, ease: "linear" }}
